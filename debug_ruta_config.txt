@@ -1,0 +1,1 @@
+Ruta de ps.__file__: D:\NeuronalLikes\NeuroBiologico_16_documentado_full\configuracion\parametros_simulacion.py
