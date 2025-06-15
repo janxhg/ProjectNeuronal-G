@@ -48,6 +48,6 @@ The current simulation is built around three key neural groups:
 
 ## License
 
-Copyright (c) 2025 [Your Name]. All Rights Reserved.
+Copyright (c) 2025 Joaquín Stürtz. All Rights Reserved.
 
 The content of this repository is private and confidential. Unauthorized copying, distribution, or use of this software, via any medium, is strictly prohibited.
