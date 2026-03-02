@@ -1,4 +1,4 @@
-Early neuroscience simulation project from June 2025. Spiking neural network with sequence detection, lateral inhibition, and parameter tuning experiments. Left public as a snapshot of early research work.  (I found it abandoned in my private files and decided to make it public hahaha) :)
+# Early neuroscience simulation project from June 2025. Spiking neural network with sequence detection, lateral inhibition, and parameter tuning experiments. Left public as a snapshot of early research work.  (I found it abandoned in my private files and decided to make it public hahaha) :)
 
 # Cerebral Cognitive Architecture
 
